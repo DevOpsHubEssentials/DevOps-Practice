@@ -1,6 +1,12 @@
-#Maven
-
+#MAVEN
 Maven requires Java. Java (JDK) is the Pre - Requisite Software for Maven.
 ```
 sudo yum install java-21-openjdk-devel -y
 ```
+
+yum install wget unzip -y
+
+wget https://dlcdn.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.zip
+
+unzip apache-maven-3.9.11-bin.zip
+
